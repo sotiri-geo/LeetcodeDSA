@@ -12,7 +12,6 @@ class Solution:
 
         while k > 0:
             top = heapq.heappop(heap)
-            print(-top)
             score += -top
             replace = math.ceil(-top / 3)
             heapq.heappush(heap, -replace)
