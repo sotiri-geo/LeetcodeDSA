@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0778-reorganize-string) |
 | [1325-path-with-maximum-probability](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1325-path-with-maximum-probability) |
+| [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 | [2603-reward-top-k-students](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2603-reward-top-k-students) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Merge Sort
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [1325-path-with-maximum-probability](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1325-path-with-maximum-probability) |
+| [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 | [2603-reward-top-k-students](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2603-reward-top-k-students) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Two Pointers
@@ -81,4 +83,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1325-path-with-maximum-probability) |
+## Binary Search
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
+## Depth-First Search
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
+## Union Find
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
+## Matrix
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
