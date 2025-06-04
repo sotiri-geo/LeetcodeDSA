@@ -1,43 +1,51 @@
 from collections import deque
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
+        """
+        This looks like a bfs algo because we need to view this 
+        grid where each cell is a node and 4 directionally across 
+        each cell as edges. 
 
-        fresh_oranges = 0
-        rotten_q = deque()
-        time = 0
+        We know that if we apply bfs starting at any rotton orange
+        and traverse then when we have no more rotton oranges we know we
+        would have the minimum time.
+        """
+        m = len(grid)
+        n = len(grid[0])
+        queue = deque()
+        fresh_orange_count = 0
+        # How do we start? we need to grab all the rotton oranges
+        for i in range(m):
+            for j in range(n):
+                if grid[i][j] == 2:
+                    queue.append((i, j))
+                if grid[i][j] == 1:
+                    fresh_orange_count += 1
 
-        for row in range(len(grid)):
-            for col in range(len(grid[0])):
-                if grid[row][col] == 1:
-                    fresh_oranges += 1
+        directions = [(0, 1), (1, 0), (-1, 0), (0, -1)]
+        # First round of rotton oranges isn't considered
+        time = 0 
 
-                if grid[row][col] == 2:
-                    rotten_q.append((row, col, time))
-        # edge case if there are no fresh oranges to begin with
-        if not fresh_oranges:
-            return 0
+        def is_valid(row, col):
+            return 0 <= row < m and 0 <= col < n
 
-        directions = [(1, 0), (0, 1), (-1, 0), (0, -1)]
-        def is_valid(r, c):
-            return 0 <= r < len(grid) and 0 <= c < len(grid[0])
+        # Key thing here is that we only iterate if we still have fresh oranges
+        # to avoid overcounting the time
+        while queue and fresh_orange_count > 0:
 
-        while rotten_q:
-
-            for _ in range(len(rotten_q)):
-                r, c, t = rotten_q.popleft()
-
+            # tracking rotton oranges at every given minute
+            for _ in range(len(queue)):
+                rotton = queue.popleft()
+                old_row, old_col = rotton
+                # move directionaly
                 for dx, dy in directions:
-                    new_r = r + dx
-                    new_c = c + dy
-                    # Changing grid value is similar to keeping a seen state
-                    # We prevent modifying the same fresh orange more than once
-                    if is_valid(new_r, new_c) and grid[new_r][new_c] == 1:
-                        # we found a fresh orange that can go rotten in t + 1
-                        fresh_oranges -= 1
-                        grid[new_r][new_c] = 2
-                        # add this to queue
-                        rotten_q.append((new_r, new_c, t + 1))
-                        if fresh_oranges == 0:
-                            return t + 1
-
-        return -1
+                    new_row = dx + old_row
+                    new_col = dy + old_col
+                    if is_valid(new_row, new_col) and grid[new_row][new_col] == 1:
+                        # make that orange rotton and explore neighbours
+                        grid[new_row][new_col] = 2
+                        queue.append((new_row, new_col))
+                        fresh_orange_count -= 1
+            time += 1
+        
+        return time if fresh_orange_count == 0 else -1
