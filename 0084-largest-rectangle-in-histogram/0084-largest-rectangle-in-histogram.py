@@ -22,7 +22,8 @@ class Solution:
                 idx = stack.pop()
                 height = heights[idx]
 
-            
+                # an empty stack signals we've just popped off the smallest
+                # element so we can run across the entire array up to
                 width = i if not stack else i - stack[-1] - 1
 
                 ans = max(ans, height * width)
