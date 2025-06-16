@@ -1,5 +1,13 @@
 import heapq
 
+"""
+minH - 3 4
+
+maxH - 2
+
+Goal is to start from the left side, then move it right, then only pop off the smallest element from min heap (right side) if the right side is bigger. This way we always know when there an odd number of elements, the median is the root of the max heap
+"""
+
 class MedianFinder:
 
     def __init__(self):
