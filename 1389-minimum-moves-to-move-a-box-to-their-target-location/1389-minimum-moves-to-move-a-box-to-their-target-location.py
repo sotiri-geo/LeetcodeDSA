@@ -26,9 +26,6 @@ class Solution:
 
         def is_valid(x, y):
             return 0 <= x < m and 0 <= y < n and grid[x][y] != "#"
-        def can_push(px, py, bx, by, dx, dy):
-            """True player dx, dy move can push box. Will need to step into box position."""
-            return (px + dx, py + dy) == (bx, by)
 
         seen = set([(*player, *box)])
         directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
