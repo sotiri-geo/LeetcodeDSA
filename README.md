@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0778-reorganize-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0778-reorganize-string) |
 | [1325-path-with-maximum-probability](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1325-path-with-maximum-probability) |
+| [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 | [2603-reward-top-k-students](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2603-reward-top-k-students) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1325-path-with-maximum-probability](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1325-path-with-maximum-probability) |
+| [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 | [2159-two-out-of-three](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2159-two-out-of-three) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1036-rotting-oranges](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0675-cut-off-trees-for-golf-event](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1036-rotting-oranges](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 ## Bit Manipulation
