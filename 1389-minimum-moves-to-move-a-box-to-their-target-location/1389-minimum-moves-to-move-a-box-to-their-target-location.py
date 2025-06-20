@@ -83,9 +83,9 @@ class Solution:
                     # positiion. And box would move in that direction. We only really 
                     # need to check if the boxes next position is valid and if so then the players
                     # next step would automatically be valid as the box was previously there
-                    if is_valid(nb_x, nb_y) and (push_x, push_y, nb_x, nb_y) not in seen:
-                        queue.append((push_x, push_y, nb_x, nb_y, pushes + 1))
-                        seen.add((push_x, push_y, nb_x, nb_y))
+                    if is_valid(nb_x, nb_y) and (b_x, b_y, nb_x, nb_y) not in seen:
+                        queue.append((b_x, b_y, nb_x, nb_y, pushes + 1))
+                        seen.add((b_x, b_y, nb_x, nb_y))
         
         return -1
 
