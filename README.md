@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1325-path-with-maximum-probability) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 | [2159-two-out-of-three](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2159-two-out-of-three) |
 | [2603-reward-top-k-students](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2603-reward-top-k-students) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0261-graph-valid-tree) |
 | [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1325-path-with-maximum-probability) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
 ## Shortest Path
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
