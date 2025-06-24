@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
 | [0778-reorganize-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0778-reorganize-string) |
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
 | [2603-reward-top-k-students](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2603-reward-top-k-students) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -102,10 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0261-graph-valid-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0261-graph-valid-tree) |
+| [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1325-path-with-maximum-probability) |
 ## Binary Search
 |  |
@@ -115,12 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0261-graph-valid-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0261-graph-valid-tree) |
+| [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
 | [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0261-graph-valid-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0261-graph-valid-tree) |
+| [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1036-rotting-oranges](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -132,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0261-graph-valid-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0261-graph-valid-tree) |
+| [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
 | [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
