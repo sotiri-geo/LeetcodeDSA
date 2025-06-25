@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0778-reorganize-string) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2603-reward-top-k-students](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2603-reward-top-k-students) |
 ## Counting
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0684-redundant-connection) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1325-path-with-maximum-probability](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1325-path-with-maximum-probability) |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
 ## Shortest Path
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
@@ -183,5 +186,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1100-connecting-cities-with-minimum-cost) |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
