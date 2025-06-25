@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0261-graph-valid-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0261-graph-valid-tree) |
 | [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
+| [0684-redundant-connection](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0684-redundant-connection) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1325-path-with-maximum-probability](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1325-path-with-maximum-probability) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0261-graph-valid-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0261-graph-valid-tree) |
 | [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
+| [0684-redundant-connection](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0684-redundant-connection) |
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
 | [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0261-graph-valid-tree) |
 | [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0684-redundant-connection](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0684-redundant-connection) |
 | [1036-rotting-oranges](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0261-graph-valid-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0261-graph-valid-tree) |
 | [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
+| [0684-redundant-connection](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0684-redundant-connection) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1100-connecting-cities-with-minimum-cost) |
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
