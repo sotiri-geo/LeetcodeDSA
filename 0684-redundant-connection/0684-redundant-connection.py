@@ -44,7 +44,7 @@ class Solution:
         
         n = len(nodes)        
 
-        def kruskal(n, edges):
+        def redundantEdge(n, edges):
             """Returns the edge which forms a cycle. If multiple returns last."""
             uf = UnionFind(n)
 
@@ -59,5 +59,5 @@ class Solution:
 
             return cycle_edges.pop()
 
-        return kruskal(n, edges)
+        return redundantEdge(n, edges)
 
