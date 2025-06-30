@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2159-two-out-of-three) |
 | [2603-reward-top-k-students](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2603-reward-top-k-students) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/Tiri1992/LeetcodeDSA/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,11 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/Tiri1992/LeetcodeDSA/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/Tiri1992/LeetcodeDSA/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
