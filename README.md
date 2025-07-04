@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0778-reorganize-string) |
+| [1272-invalid-transactions](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1272-invalid-transactions) |
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
 | [2159-two-out-of-three](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2159-two-out-of-three) |
 | [2603-reward-top-k-students](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2603-reward-top-k-students) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1272-invalid-transactions](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1272-invalid-transactions) |
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
 | [2603-reward-top-k-students](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2603-reward-top-k-students) |
 ## Greedy
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0778-reorganize-string) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+| [1272-invalid-transactions](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1272-invalid-transactions) |
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2603-reward-top-k-students](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2603-reward-top-k-students) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1272-invalid-transactions](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1272-invalid-transactions) |
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
 | [1325-path-with-maximum-probability](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1325-path-with-maximum-probability) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
