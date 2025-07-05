@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0778-reorganize-string) |
 | [1272-invalid-transactions](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1272-invalid-transactions) |
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2159-two-out-of-three](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2159-two-out-of-three) |
 | [2603-reward-top-k-students](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2603-reward-top-k-students) |
 ## String
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0778-reorganize-string) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1325-path-with-maximum-probability) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
 | [2159-two-out-of-three](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2159-two-out-of-three) |
