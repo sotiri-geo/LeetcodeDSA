@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1272-invalid-transactions](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1272-invalid-transactions) |
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2603-reward-top-k-students](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2603-reward-top-k-students) |
 ## Greedy
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0778-reorganize-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0778-reorganize-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Array
 |  |
