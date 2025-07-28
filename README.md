@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2603-reward-top-k-students](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2603-reward-top-k-students) |
 ## Counting
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2159-two-out-of-three](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2159-two-out-of-three) |
 | [2603-reward-top-k-students](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2603-reward-top-k-students) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Stack
 |  |
 | ------- |
