@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1272-invalid-transactions](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1272-invalid-transactions) |
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2128-reverse-prefix-of-word](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2128-reverse-prefix-of-word) |
 | [2603-reward-top-k-students](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2603-reward-top-k-students) |
 ## Greedy
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
 | [0953-reverse-only-letters](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0953-reverse-only-letters) |
+| [2128-reverse-prefix-of-word](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2128-reverse-prefix-of-word) |
 | [2634-minimum-common-value](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2634-minimum-common-value) |
 ## Design
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2128-reverse-prefix-of-word](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2128-reverse-prefix-of-word) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/Tiri1992/LeetcodeDSA/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
 ## Monotonic Stack
 |  |
