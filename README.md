@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0778-reorganize-string) |
 | [1272-invalid-transactions](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1272-invalid-transactions) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0383-ransom-note) |
 | [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
 | [0778-reorganize-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0778-reorganize-string) |
 | [0953-reverse-only-letters](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0953-reverse-only-letters) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0778-reorganize-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1341-split-a-string-in-balanced-strings) |
