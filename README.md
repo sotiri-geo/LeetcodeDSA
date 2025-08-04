@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
 | [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2128-reverse-prefix-of-word](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2128-reverse-prefix-of-word) |
 | [3088-maximal-range-that-each-element-is-maximum-in-it](https://github.com/Tiri1992/LeetcodeDSA/tree/master/3088-maximal-range-that-each-element-is-maximum-in-it) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Tiri1992/LeetcodeDSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
