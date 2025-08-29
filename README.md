@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0261-graph-valid-tree) |
 | [0310-minimum-height-trees](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0684-redundant-connection](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0684-redundant-connection) |
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
 | [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0261-graph-valid-tree) |
 | [0310-minimum-height-trees](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0684-redundant-connection](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0684-redundant-connection) |
 | [1036-rotting-oranges](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1036-rotting-oranges) |
@@ -294,15 +296,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Topological Sort
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0310-minimum-height-trees) |
 | [1101-parallel-courses](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1101-parallel-courses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
