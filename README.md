@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0684-redundant-connection) |
 | [1100-connecting-cities-with-minimum-cost](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1100-connecting-cities-with-minimum-cost) |
+| [1101-parallel-courses](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1101-parallel-courses) |
 | [1325-path-with-maximum-probability](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1325-path-with-maximum-probability) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
@@ -298,4 +299,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0310-minimum-height-trees) |
+| [1101-parallel-courses](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1101-parallel-courses) |
 <!---LeetCode Topics End-->
