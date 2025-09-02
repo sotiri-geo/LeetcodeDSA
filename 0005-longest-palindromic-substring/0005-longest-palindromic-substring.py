@@ -9,24 +9,33 @@ class Solution:
         we can run through these base cases after we've set up our matrix
         """
         n = len(s)
+        
         if n <= 1:
             return s
-
         dp = [[False] * n for _ in range(n)]
-        start, max_len = 0, 1
+        start = 0
+        max_length = 1
+        
+        # single letters: Easier to initialise dp separately
+        for i in range(n):
+            dp[i][i] = True
 
-        # length = substring length
-        for length in range(1, n + 1):      # from 1-char substrings to full length
-            for i in range(n - length + 1):
-                j = i + length - 1  # end index
-
+        for j in range(1, n):
+            for i in range(j):
+                length = j - i + 1
                 if s[i] == s[j]:
-                    if length <= 2:   # "a" or "aa"
+                    # Check the scenarios
+                    if length <= 2:
                         dp[i][j] = True
                     else:
-                        dp[i][j] = dp[i+1][j-1]
+                        dp[i][j] = dp[i + 1][j - 1]
 
-                    if dp[i][j] and length > max_len:
-                        start, max_len = i, length
+                    # update matrix
+                    if dp[i][j] and length > max_length:
+                        max_length = length 
+                        start = i
+        
+        return s[start: start + max_length]
 
-        return s[start:start+max_len]
+
+        return s[j: i+1]
