@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0072-edit-distance) |
 | [0383-ransom-note](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0383-ransom-note) |
 | [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
 | [0778-reorganize-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0778-reorganize-string) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0300-longest-increasing-subsequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Stack
