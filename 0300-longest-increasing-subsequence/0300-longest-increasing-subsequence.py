@@ -1,21 +1,35 @@
-from functools import cache
-
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
         """
-        subsequence means the nums do not need to be contiguous
-        Stricly increasing means for i < j => nums[i] < nums[j]
+        Attempting to use binary search with keeping a mono inc stack
+        called sub, which tracks the increasing subsequence.
+        """
+        # [2, 5, 6] - 4
+        def bs(sub: list[int], num: int) -> int:
+            left = 0 
+            right = len(sub)
+            while left < right:
+                mid = (left + right) // 2
+                if sub[mid] < num:
+                    left = mid + 1
+                else:
+                    # this means righ will always hold the lowerbound
+                    # i.e the value st sub[right] >= num
+                    right = mid            
+            return left
+            
 
-        state variable
-        index -> track where we are
-        prev -> init at -inf but have this as our constraint
-        """ 
-        dp = [1] * len(nums)
-        for i in range(1, len(nums)):
-            for j in range(i):
-                if nums[i] > nums[j]:
-                    dp[i] = max(dp[i], dp[j] + 1)
+        sub = []
 
-        return max(dp)
+        for num in nums:
+            if not sub or sub[-1] < num:
+                sub.append(num)
+                continue
+            
+            # find the index to replace value
+            # OLog(N)
+            idx = bs(sub, num)
+            prev = sub[idx]
+            sub[idx] = num # replace
+        return len(sub)
 
-        return dp(0, float('-inf'))
