@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0383-ransom-note](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0621-task-scheduler) |
+| [0740-delete-and-earn](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0740-delete-and-earn) |
 | [0778-reorganize-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0778-reorganize-string) |
 | [1272-invalid-transactions](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1272-invalid-transactions) |
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0740-delete-and-earn](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0740-delete-and-earn) |
 | [1036-rotting-oranges](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1036-rotting-oranges) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0300-longest-increasing-subsequence) |
+| [0740-delete-and-earn](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0740-delete-and-earn) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Stack
 |  |
