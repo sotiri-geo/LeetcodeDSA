@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1325-path-with-maximum-probability) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0740-delete-and-earn) |
+| [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Stack
 |  |
