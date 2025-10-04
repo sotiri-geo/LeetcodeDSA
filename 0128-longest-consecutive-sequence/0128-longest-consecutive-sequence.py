@@ -7,20 +7,7 @@ class Solution:
         and the size of the connected component.
         """
         nodes = set(nums)
-        # graph = {}
-        # for num in nums:
-        #     if num - 1 in graph:
-        #         graph[num - 1] = num 
-        #     if num + 1 in graph:
-        #         graph[num] = num + 1
-        #     else:
-        #         graph[num] = None 
-
-        # We just need to loop through the graph to find the largest connected component
-        # but finding the start is tricky and in order to not repeat computations, we need 
-        # to first find the left most side and then traverse and keep a record of what we've 
-        # traversed
-
+        
         def findRoot(num):
             if num - 1 not in nodes:
                 return num
