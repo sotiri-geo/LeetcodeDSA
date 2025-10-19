@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0261-graph-valid-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0261-graph-valid-tree) |
 | [0310-minimum-height-trees](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2128-reverse-prefix-of-word](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2128-reverse-prefix-of-word) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Topological Sort
 |  |
