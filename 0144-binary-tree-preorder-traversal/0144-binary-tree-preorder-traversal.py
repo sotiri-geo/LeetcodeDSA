@@ -6,28 +6,22 @@
 #         self.right = right
 class Solution:
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        """
-        Preorder traveral is to visit the parent and then the children
-
-            4
-          /  \
-        1      5
-
-        [4, 1, 5]
-        We should first make logic call in current node then recursively call left
-        and right children.
-        """
-
-        if root is None:
+        # edge case of empty tree
+        if not root:
             return []
-
+        stack = []
         ans = []
-        ans.append(root.val)
-        # left and right calls
-        ans += self.preorderTraversal(root.left)
-        ans += self.preorderTraversal(root.right)
+        stack.append(root)
+
+        while stack:
+            top = stack.pop()
+            ans.append(top.val)
+            # append right elements first so that they come last
+            # stack is a LIFO 
+            if top.right:
+                stack.append(top.right)
+            if top.left:
+                stack.append(top.left)
 
         return ans
 
-
-        
