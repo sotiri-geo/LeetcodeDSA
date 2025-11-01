@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0072-edit-distance) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0056-merge-intervals) |
@@ -352,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
