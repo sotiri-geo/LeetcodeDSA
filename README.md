@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0740-delete-and-earn) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0072-edit-distance) |
+| [0205-isomorphic-strings](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0383-ransom-note) |
 | [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
 | [0778-reorganize-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0778-reorganize-string) |
