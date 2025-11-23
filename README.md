@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
 | [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0953-reverse-only-letters) |
