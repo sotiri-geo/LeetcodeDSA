@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0740-delete-and-earn) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0621-task-scheduler) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
