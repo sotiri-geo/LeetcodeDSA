@@ -1,12 +1,12 @@
+// isPathCrossing returns true if there exists a point which has previously 
+// been visited whilst traversing path, else return false.
 func isPathCrossing(path string) bool {
-    // We need to create coorinates to manage 
     type Point struct{
         X int
         Y int
     }
     // Preallocate to avoid realloc
-    visited := make(map[Point]struct{}, len(path))
-    // initialise
+    visited := make(map[Point]struct{}, len(path) + 1)
     curr := Point{0, 0}
     visited[curr] = struct{}{}
 
