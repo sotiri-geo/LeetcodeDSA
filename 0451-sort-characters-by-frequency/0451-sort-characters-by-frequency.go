@@ -3,6 +3,7 @@ import (
 	"slices"
 	"strings"
 )
+// frequencySort will sort the input string in descending order of the frequency of the characters.
 func frequencySort(s string) string {
     // first need to implement a counter based off hashmap
     count := make(map[rune]int, len(s))
@@ -31,6 +32,7 @@ func frequencySort(s string) string {
 
     // Reconstruct ans
     var ans strings.Builder
+    ans.Grow(len(s))
 
     for _, pair := range pairs {
         for range pair.count {
