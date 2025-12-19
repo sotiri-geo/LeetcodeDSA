@@ -3,8 +3,8 @@ func isIsomorphic(s string, t string) bool {
     // backwards describes the map from t -> s
 
     // All ascii characters can be represented in a single byte
-    forwards := make(map[byte]byte)
-    backwards := make(map[byte]byte)
+    forwards := make(map[byte]byte, len(s))
+    backwards := make(map[byte]byte, len(t))
 
     for i := range len(s) {
         schar := s[i]
