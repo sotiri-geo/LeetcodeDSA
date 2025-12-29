@@ -1,9 +1,3 @@
-
-import (
-	"fmt"
-	"slices"
-)
-
 /**
  * Definition for singly-linked list.
  * type ListNode struct {
@@ -13,20 +7,18 @@ import (
  */
 func isPalindrome(head *ListNode) bool {
     // assign values into an array 
-    values := []int{}
+    var values []int
 
-    curr := head 
-
-    for curr != nil {
+    // Idiomatic go code for iterating across linkedList
+    for curr := head; curr != nil; curr = curr.Next {
         values = append(values, curr.Val)
-        curr = curr.Next
     }
-    i := 0
-    for _, revVal := range slices.Backward(values) {
-        if revVal != values[i] {
+
+    // Use two pointers to validate palindrome
+    for i, j := 0, len(values) - 1; i < j; i, j = i + 1, j - 1 {
+        if values[i] != values[j] {
             return false
         }
-        i++ 
     }
 
     return true
