@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0953-reverse-only-letters) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2128-reverse-prefix-of-word) |
 | [2540-minimum-common-value](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2540-minimum-common-value) |
 | [2634-minimum-common-value](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2634-minimum-common-value) |
