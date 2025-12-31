@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Divide and Conquer
 |  |
 | ------- |
