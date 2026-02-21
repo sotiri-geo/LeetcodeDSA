@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
