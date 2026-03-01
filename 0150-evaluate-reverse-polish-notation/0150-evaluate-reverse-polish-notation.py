@@ -1,29 +1,25 @@
+import operator as op
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
-        """
-        Create a stack to compute operations in correct order.
-        Once we reach an operand, we pop off the top two elements,
-        apply the operand, then reappend the value to top of stack.
+        def div_truncate(a: int, b: int) -> int:
+            q = abs(a) // abs(b)
+            return -q if (a < 0) ^ (b < 0) else q
+        op_by_id = {
+            "+": op.add,
+            "-": op.sub,
+            "*": op.mul,
+            "/": div_truncate,
+        }
 
-        Input should always be valid
-        """ 
-
-        operands = {"*", "-", "+", "/"}
         stack = []
 
         for token in tokens:
-            if token in operands:
-                snd = int(stack.pop())
+            if token in op_by_id:
+                # operator on stack 
+                lst = int(stack.pop())
                 fst = int(stack.pop())
-                if token == "*":
-                    stack.append(fst * snd)
-                elif token == "+":
-                    stack.append(fst + snd)
-                elif token == "-":
-                    stack.append(fst - snd)
-                elif token == "/":
-                    stack.append(int(fst / snd))
-            else:
-                stack.append(token)
-
+                stack.append(op_by_id[token](fst, lst))
+                continue 
+            stack.append(token)
+        # should be a single element
         return int(stack.pop())
