@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0163-missing-ranges](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0163-missing-ranges) |
 | [0200-number-of-islands](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0217-contains-duplicate) |
