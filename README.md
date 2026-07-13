@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1272-invalid-transactions](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1272-invalid-transactions) |
 | [1308-smallest-string-with-swaps](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1308-smallest-string-with-swaps) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1321-get-equal-substrings-within-budget) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Tiri1992/LeetcodeDSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
