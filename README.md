@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0163-missing-ranges](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0163-missing-ranges) |
+| [0189-rotate-array](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0217-contains-duplicate) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0295-find-median-from-data-stream) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Tiri1992/LeetcodeDSA/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
