@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0383-ransom-note) |
 | [0399-evaluate-division](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0399-evaluate-division) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0234-palindrome-linked-list) |
