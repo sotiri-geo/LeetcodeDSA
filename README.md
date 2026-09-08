@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1436-destination-city) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1480-running-sum-of-1d-array](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1480-running-sum-of-1d-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1753-path-with-minimum-effort) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Tiri1992/LeetcodeDSA/tree/master/0303-range-sum-query-immutable) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1321-get-equal-substrings-within-budget) |
+| [1480-running-sum-of-1d-array](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1480-running-sum-of-1d-array) |
 ## Tree
 |  |
 | ------- |
