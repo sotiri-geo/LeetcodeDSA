@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1496-path-crossing) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2159-two-out-of-three](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2159-two-out-of-three) |
 | [2540-minimum-common-value](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2540-minimum-common-value) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1436-destination-city](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1496-path-crossing) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Tiri1992/LeetcodeDSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2128-reverse-prefix-of-word) |
 | [2603-reward-top-k-students](https://github.com/Tiri1992/LeetcodeDSA/tree/master/2603-reward-top-k-students) |
 ## Greedy
